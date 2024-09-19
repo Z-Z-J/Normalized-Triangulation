@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ## Training
 
+## License
+By downloading and using this code you agree to the terms in the [LICENSE](LICENSE). Third-party datasets and software are subject to their respective licenses.
 
 
 
